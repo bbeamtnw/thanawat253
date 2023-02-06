@@ -1,0 +1,30 @@
+body{   
+    background-color: rgb(230, 224, 177)
+}
+p{
+    color: rgb(38, 24, 7);
+}
+/* กําหนด hr ไข่ปลา */
+
+hr{border-style: none;
+   border-top-style: dotted;
+   border-color: rgb(60, 55, 55) ;
+   border-width: 5px;
+   width: 60%;}
+
+
+
+.Broccoli{
+    background-color: rgb(252, 252, 252);
+}
+
+.circular{
+    border-radius:100%;
+   }
+
+
+
+#heading{
+color: brown;
+
+;}
